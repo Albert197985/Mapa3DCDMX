@@ -1,0 +1,134 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "Alcaldias_CDMX_ce9e1dbd_b449_46d9_b190_bea9f358ef04": {
+        "enabled": true,
+        "groups": []
+      },
+      "CurvasMaestras_100m_45b140c0_5796_4c03_89d4_ffedf2616428": {
+        "enabled": true,
+        "groups": []
+      },
+      "CurvasOrdinarias_20m_1cfc5c20_2498_442b_89df_aa4bd4b313dd": {
+        "enabled": true,
+        "groups": []
+      },
+      "DEM_CDMX_dc11ade9_09b3_40c1_ba62_3fc7ec21f68e": {
+        "enabled": true,
+        "groups": []
+      },
+      "DEM_CDMX_hill_8814026b_4552_4c7d_8209_435d92200ecb": {
+        "enabled": true,
+        "groups": []
+      },
+      "Elevaciones_CDMX_2dc27a50_81bc_4e08_b53f_6885375fbfaa": {
+        "enabled": true,
+        "groups": []
+      },
+      "Estatal_CDMX_35c6236b_82c1_4c80_b6ea_ebb5237e4086": {
+        "enabled": true,
+        "groups": []
+      },
+      "Lago1519_CDMX_a42f7421_d64e_4ec9_be6c_cb8e32c88464": {
+        "enabled": true,
+        "groups": []
+      },
+      "RedHidro_CDMX_24fd950f_6dae_4f02_b0f5_0870513642d0": {
+        "enabled": true,
+        "groups": []
+      },
+      "TiposVegetacion_CDMX_451154c1_e061_4d82_931e_09956413f463": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:2d9c76ba": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 3,
+      "layerId": "Lago1519_CDMX_a42f7421_d64e_4ec9_be6c_cb8e32c88464",
+      "name": "Lago1519_CDMX",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Elevaciones_CDMX_2dc27a50_81bc_4e08_b53f_6885375fbfaa",
+      "name": "Elevaciones_CDMX",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Estatal_CDMX_35c6236b_82c1_4c80_b6ea_ebb5237e4086",
+      "name": "Estatal_CDMX",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "CurvasMaestras_100m_45b140c0_5796_4c03_89d4_ffedf2616428",
+      "name": "CurvasMaestras_100m",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "CurvasOrdinarias_20m_1cfc5c20_2498_442b_89df_aa4bd4b313dd",
+      "name": "CurvasOrdinarias_20m",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "RedHidro_CDMX_24fd950f_6dae_4f02_b0f5_0870513642d0",
+      "name": "RedHidro_CDMX",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Alcaldias_CDMX_ce9e1dbd_b449_46d9_b190_bea9f358ef04",
+      "name": "Alcaldias_CDMX",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "DEM_CDMX_dc11ade9_09b3_40c1_ba62_3fc7ec21f68e",
+      "name": "DEM_CDMX",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "TiposVegetacion_CDMX_451154c1_e061_4d82_931e_09956413f463",
+      "name": "TiposVegetacion_CDMX",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "DEM_CDMX_hill_8814026b_4552_4c7d_8209_435d92200ecb",
+      "name": "DEM_CDMX_hill",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:2d9c76ba",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "Version": 20800
+}
